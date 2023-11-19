@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Data scientist, PhD student, pharmacist, aspiring to bring out of data the decisions that will take you forward.
 
-
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/chickenGif.gif" />
 
 ## Life
 
