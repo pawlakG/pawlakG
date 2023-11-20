@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 Data scientist, PhD student, pharmacist, aspiring to bring out of data the decisions that will take you forward.
 
 
-## Life
-
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
-
-
+## Education
+I'm curretly a PhD student at OncoLille Cancer Institute in the CANTHER « Cancer Heterogeneity, Plasticity and Resistance to Therapies » team.
+I'm a Data scientist with a master degree in Health Data Science 💻
+I'm also a pharmacist graduate of the Lille Faculty of Pharmacy ⚕️.
+In my early higher studies I obtained a two-years studies diploma in chemistry 🥼
 
 
 
@@ -57,6 +57,13 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 [![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
+
+
+## Life
+
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+
+
 
 <p align="center">
     <b>Looking for a software engineering intern?
