@@ -27,10 +27,14 @@ Data scientist, PhD student, pharmacist, aspiring to bring out of data the decis
 
 
 ## Education
+
 I'm curretly a PhD student at OncoLille Cancer Institute in the CANTHER « Cancer Heterogeneity, Plasticity and Resistance to Therapies » team.
-I'm a Data scientist with a master degree in Health Data Science 💻
+
+I'm a Data scientist with a master degree in Health Data Science 💻.
+
 I'm also a pharmacist graduate of the Lille Faculty of Pharmacy ⚕️.
-In my early higher studies I obtained a two-years studies diploma in chemistry 🥼
+
+In my early higher studies I obtained a two-years studies diploma in chemistry 🥼.
 
 
 
