@@ -32,7 +32,7 @@ I'm curretly a PhD student at OncoLille Cancer Institute in the CANTHER « Cance
 
 I'm a Data scientist with a master degree in Health Data Science 💻.
 
-I'm also a pharmacist graduate of the Lille Faculty of Pharmacy ⚕️.
+I'm also a <b>\textcolor{green}{pharmacist}</b> graduate of the Lille Faculty of Pharmacy ⚕️.
 
 In my early higher studies I obtained a two-years studies diploma in chemistry 🥼.
 
