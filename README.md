@@ -84,9 +84,12 @@ Running results analysis
 
 I love mycology and the courses I took during my pharmacy studies were the catalyst. Since then, I've always taken my camera with me to immortalize my mycological encounters on nature walks.
 
-<p align="center">
-  <img src="img/babyAmanitaTreates.jpg" width="500" alt="babyAmanitas">
-</p>
+
+Young clavarioid fungi ?        |  Baby Amanita muscaria 
+:-------------------------:|:-------------------------:
+![](img/_dsc0036_23646056658_o.jpg )  |  ![](img/babyAmanitaTreates.jpg)
+
+![](img/dreamer_47144180142_o.jpg) 
 
 
 <p align="center">
