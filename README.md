@@ -63,10 +63,10 @@ In my early higher studies I obtained a two-years studies diploma in chemistry ð
 ### Programming languages
 
 
-![R](https://img.shields.io/badge/R-5591f5?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3eabf4?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-26c5f3?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 
 _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
