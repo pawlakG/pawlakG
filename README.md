@@ -74,8 +74,6 @@ _Other skills: ⏱️ Time management, communication
 
 I am passionate about genealogy, and use my skills to find information about my ancestors. See : Genealogy
 
-I love running, and through the results of a trail I took part in I wanted to do a quick basic statistical analysis to see where I stood and what my potential for progress was. See : Running results analysis
-
 
 ## Life
 
