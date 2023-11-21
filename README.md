@@ -70,6 +70,12 @@ In my early higher studies I obtained a two-years studies diploma in chemistry �
 
 _Other skills: ⏱️ Time management, communication
 
+## Current projects
+
+Genealogy
+
+Running results analysis
+
 
 ## Life
 
