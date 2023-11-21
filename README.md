@@ -52,13 +52,21 @@ In my early higher studies I obtained a two-years studies diploma in chemistry ð
 
 ### Data science
 
-![Artificial_intelligence](https://img.shields.io/badge/Artificial_intelligence-F5792A?style=for-the-badge)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-[![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
-[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Artificial_intelligence](https://img.shields.io/badge/Artificial_intelligence-b429f9?style=flat)
+![Machine_learning](https://img.shields.io/badge/Machine_learning-9c43f8?style=flat)
+![Deep_learning](https://img.shields.io/badge/Deep_learning-855df7?style=flat)
+![Statistics](https://img.shields.io/badge/Statistics-6d77f6?style=flat)
+![Data_vizualisation](https://img.shields.io/badge/Data_vizualisation-5591f5?style=flat)
+![Cloud_Computing](https://img.shields.io/badge/Cloud_Computing-3eabf4?logo=googlecloud&style=flat)
+![Application_design](https://img.shields.io/badge/Application_design-26c5f3?style=flat)
+
+### Programming languages
+
+
+![R](https://img.shields.io/badge/R-5591f5?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3eabf4?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-26c5f3?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&style=for-the-badge)
 
 
 _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
