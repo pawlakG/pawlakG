@@ -79,9 +79,14 @@ Running results analysis
 
 ## Life
 
+🍄 Mycology and 📸 photography
 
-🍄 Mycology
 
+I love mycology and the courses I took during my pharmacy studies were the catalyst. Since then, I've always taken my camera with me to immortalize my mycological encounters on nature walks.
+
+<p align="center">
+  <img src="img/babyAmanitaTreates.jpg" width="500" alt="babyAmanitas">
+</p>
 
 
 <p align="center">
