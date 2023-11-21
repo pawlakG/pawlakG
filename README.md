@@ -72,20 +72,19 @@ _Other skills: ⏱️ Time management, communication
 
 ## Current projects
 
-Genealogy
+I am passionate about genealogy, and use my skills to find information about my ancestors. See : Genealogy
 
-Running results analysis
+I love running, and through the results of a trail I took part in I wanted to do a quick basic statistical analysis to see where I stood and what my potential for progress was. See : Running results analysis
 
 
 ## Life
 
 🍄 Mycology and 📸 photography
 
+Photography is a way for me to develop my creativity. I want to convey my emotions, thoughts and vision through photography. Besides, I love mycology and the courses I took during my pharmacy studies were the catalyst. Since then, I've always taken my camera with me to immortalize my mycological encounters on nature walks.
 
-I love mycology and the courses I took during my pharmacy studies were the catalyst. Since then, I've always taken my camera with me to immortalize my mycological encounters on nature walks.
 
-
-Young clavarioid fungi ?        |  Baby Amanita muscaria 
+Xylaria hypoxylon (L.) Grev. 1824       |  Amanita muscaria (L. : Fr.) Lam. 1783
 :-------------------------:|:-------------------------:
 ![](img/_dsc0036_23646056658_o.jpg )  |  ![](img/babyAmanitaTreates.jpg)
 
