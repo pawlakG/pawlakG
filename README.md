@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - âš¡ Fun fact: ...
 -->
 
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/chickenGif.gif" />
 ---
 /!\ W.I.P./!\
 ---
 
 # Hi, I'm Geoffrey :wave:
-
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/chickenGif.gif" />
 
 Data scientist, PhD student, pharmacist, aspiring to bring out of data the decisions that will take you forward.
 
@@ -41,27 +40,29 @@ In my early higher studies I obtained a two-years studies diploma in chemistry ð
 
 ## Skills
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![R](https://img.shields.io/badge/R-276dc2?logo=R&logoColor=white&style=for-the-badge)
+### Health
 
-_Favorite programming language: R :crab:._  
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
+![Biology](https://img.shields.io/badge/Biology-e62314?style=flat)
+![Pharmacology](https://img.shields.io/badge/Pharmacology-e83715?style=flat)
+![Physio--pathology](https://img.shields.io/badge/Physio--pathology-ea4c15?style=flat)
+![Molecular_chemistry](https://img.shields.io/badge/Molecular_chemistry-ec6116?style=flat)
+![Toxicology](https://img.shields.io/badge/Toxicology-ed7517?style=flat)
+![Pharmacokinetics](https://img.shields.io/badge/Pharmacokinetics-ef8a17?style=flat)
+![Pharmacodynamics](https://img.shields.io/badge/Pharmacodynamics-f19e18?style=flat)
 
-### Software
+### Data science
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+![Artificial_intelligence](https://img.shields.io/badge/Artificial_intelligence-F5792A?style=for-the-badge)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
 [![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
-[![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
+
+
+_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
+:skateboard: skateboarding, :computer_mouse: interactive experiences._
 
 
 ## Life
@@ -71,7 +72,6 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 
 <p align="center">
-    <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+        <a href="https://www.linkedin.com/in/geopaw/">Let's connect and talk!</a>
     </b>
 </p>
