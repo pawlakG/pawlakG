@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pawlakG/pawlakG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/chickenGif.gif" />
 ---
 /!\ W.I.P./!\
 ---
@@ -30,6 +27,7 @@ Data scientist, PhD student, pharmacist, aspiring to bring out of data the decis
 I'm curretly a **PhD student** at OncoLille Cancer Institute in the CANTHER « Cancer Heterogeneity, Plasticity and Resistance to Therapies » team.
 
 I'm a **Data scientist** with a master degree in Health Data Science 💻.
+
 
 I'm also a **Pharmacist** graduate of the Lille Faculty of Pharmacy ⚕️. 
 
@@ -59,6 +57,7 @@ In my early higher studies I obtained a two-years studies diploma in chemistry �
 ![Data_vizualisation](https://img.shields.io/badge/Data_vizualisation-5591f5?style=flat)
 ![Cloud_Computing](https://img.shields.io/badge/Cloud_Computing-3eabf4?logo=googlecloud&style=flat)
 ![Application_design](https://img.shields.io/badge/Application_design-26c5f3?style=flat)
+![Data_management](https://img.shields.io/badge/Data_management-28c7f5?style=flat)
 
 ### Programming languages
 
@@ -69,13 +68,13 @@ In my early higher studies I obtained a two-years studies diploma in chemistry �
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
+_Other skills: ⏱️ Time management, communication
 
 
 ## Life
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+
+🍄 Mycology
 
 
 
