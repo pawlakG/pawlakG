@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 Data scientist, PhD student, pharmacist, aspiring to bring out of data the decisions that will take you forward.
 
+You can find my resume [here](resume/PharmDPhDresume.pdf).
 
 ## Education
 
