@@ -69,7 +69,7 @@ _Other skills: ⏱️ Time management, communication
 
 ## Current projects
 
-I am passionate about genealogy, and use my skills to find information about my ancestors. See : Genealogy
+I am passionate about genealogy, and use my skills to find information about my ancestors. See : ![Genealogy](https://github.com/pawlakG/genealogy)
 
 
 ## Life
