@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-/!\ W.I.P./!\
----
-
 # Hi, I'm Geoffrey :wave:
 
 Data scientist, PhD student, pharmacist, aspiring to bring out of data the decisions that will take you forward.
