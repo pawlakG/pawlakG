@@ -58,13 +58,13 @@ Regulators: Identified PAX8 and NKX2.5 as master regulators; NKX2.5 negatively i
   <em>PharmD practical project outline.</em>
 </p>
 
-This project implements an optimized computational workflow for identifying drug repurposing opportunities through transcriptomic signature analysis.
+his project implements a virtual screening and machine learning workflow to identify high-affinity, low-toxicity inhibitors targeting the MET receptor.
 
-Architecture: Integration of pharmacogenomic databases (CMap/L1000) with clinical differential expression profiles.
+Architecture: Integration of ChEMBL and PubChem databases with structural filtering based on Lipinski’s rules and undesirable motif exclusion.
 
-Methodology: High-performance R implementation of signature reversal scoring to prioritize compounds capable of normalizing pathological states.
+Methodology: Deep Learning approach using a Neural Network (pIC50​ prediction MAE: 0.68) and the eToxPred algorithm to prioritize potent candidates with favorable safety profiles.
 
-Pragmatic Approach: Focuses on identifying molecules with established safety profiles to accelerate clinical translation.
+Pragmatic Approach: Focuses on narrowing massive chemical libraries down to a validated subset of 1,344 compounds to minimize experimental timeframe and budget.
 
 ---
 
