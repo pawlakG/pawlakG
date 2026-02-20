@@ -2,7 +2,7 @@
 
 ### 🔬 Oncology Bioinformatician | PharmD & PhD
 I specialize in extracting high-level biological insights from DNA-seq and RNA-seq data to identify novel oncogenic mechanisms. Willing to be an expert on single-cell technology integration.
-
+<!--
 ---
 
 ## 🛠 Tech Stack & Methodology
@@ -21,7 +21,7 @@ I specialize in extracting high-level biological insights from DNA-seq and RNA-s
 - **LinkedIn:** [Link]
 - **Professional Email:** [Email]
 
-<!--
+
 **pawlakG/pawlakG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
