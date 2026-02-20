@@ -1,7 +1,7 @@
 # Hi, I'm Geoffrey 👋
 
 ### 🔬 Oncology Bioinformatician | PharmD & PhD
-I specialize in extracting high-level biological insights from DNA-seq and RNA-seq data to identify novel therapeutic targets.
+I specialize in extracting high-level biological insights from DNA-seq and RNA-seq data to identify novel oncogenic mechanisms. Willing to be an expert on single-cell technology integration.
 
 ---
 
