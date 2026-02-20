@@ -51,24 +51,12 @@ Regulators: Identified PAX8 and NKX2.5 as master regulators; NKX2.5 negatively i
 
 #### **[Therapeutic repurposing pipeline]**
 
-```mermaid
-graph TD
-    A[Clinical Transcriptomic Data] -->|Differential Expression| B(Disease Signature)
-    C[Pharmacogenomic Databases: CMap/L1000] -->|Compound Signatures| D(Reference Library)
-    
-    B --> E{Signature Reversal Scoring}
-    D --> E
-    
-    E -->|GSEA-based Algorithm| F[Ranked Drug Candidates]
-    F --> G[Target Prioritization]
-    
-    G -->|PPI Networks| H(Biological Validation)
-    H --> I[Repurposing Opportunities]
-
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style I fill:#bbf,stroke:#333,stroke-width:4px
-    style E fill:#fff,stroke:#f66,stroke-width:3px
-```
+<p align="center"> 
+  <img src="https://github.com/pawlakG/pharmD/blob/f141e3fb89491a4eb6d30d92290f41df89e236b8/output/img/pharmD_Outline.png" width=40% height=40%>
+</p>
+<p align="center">
+  <em>PharmD practical project outline.</em>
+</p>
 
 This project implements an optimized computational workflow for identifying drug repurposing opportunities through transcriptomic signature analysis.
 
