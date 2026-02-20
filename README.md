@@ -17,9 +17,6 @@ I specialize in extracting high-level biological insights from DNA-seq and RNA-s
 
 ---
 
-## 📈 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawlakG&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 - **LinkedIn:** [Link]
 - **Professional Email:** [Email]
