@@ -41,6 +41,14 @@ I focus on identifying actionable biological levers in oncology by leveraging **
 
 GBM-cRegMap: A coregulatory influence map of glioblastoma (GBM) 
 
+
+<p align="center"> 
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41698-025-00890-0/MediaObjects/41698_2025_890_Fig1_HTML.png?as=webp" width=40% height=40%>
+</p>
+<p align="center">
+  <em>PharmD practical project outline.</em>
+</p>
+
 Objective: Developing a unified network influence map to navigate GBM heterogeneity and plasticity.
 
 Methodology: Used representation learning and the h-LICORN algorithm to infer a highly specific coregulatory network (GBM-CoRegNet) from 1,612 tumors.
