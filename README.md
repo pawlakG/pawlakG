@@ -1,4 +1,4 @@
-# Dr. Geoffrey Pawlak | PharmD, PhD
+# Geoffrey Pawlak | PharmD, PhD
 ### Oncology Bioinformatics Researcher
 
 I focus on identifying actionable biological levers in oncology by leveraging **DNA-seq** and **RNA-seq** data at **bulk** or **single-cell** level. My approach prioritizes high-performance, interoperable, and reproducible computational frameworks to bridge the gap between dry-lab findings and clinical applications.
